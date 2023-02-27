@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SentenciasIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SentenciasIfElse">
+  <component name="RunManager" selected="Application.ForLoop">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="java_spike" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Funciones" />
       <module name="java_spike" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.SentenciasIfElse" />
         <item itemvalue="Application.SobreCargaDeFunciones" />
         <item itemvalue="Application.Funciones" />
