@@ -5,7 +5,7 @@ public class Variables {
     byte unSoloByte = 1;
     short dosBytes = 2;
     int entero = 60; // 4 bytes
-    long numeroGrande = 109238710293847190234781092834712093847; // 8 bytes, como el nintendo!
+    long numeroGrande = 109238710; // 8 bytes, como el nintendo!
 
     // Numeros decimales
 

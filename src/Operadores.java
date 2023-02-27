@@ -8,12 +8,14 @@ public class Operadores {
 
     //Lógicos
 
+    /*
     if (numero1 > numero2) {
         System.out.println("El numero " + numero1 + " es mas alto que " + numero2);
     };
+     */
 
     //incremento y decremento =
 
-    numero1++; //deberia incrementar valor de numero1 en 1. Entonces = 11;
-    numero2--; //deberia reducir valor de numero2 en 1. Entonces = 29;
+    int aumentado = numero1++; //deberia incrementar valor de numero1 en 1. Entonces = 11;
+    int reducido = numero2 --; //deberia reducir valor de numero2 en 1. Entonces = 29;
 }
