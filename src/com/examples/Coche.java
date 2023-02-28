@@ -1,3 +1,5 @@
+package com.examples;
+
 public class Coche {
 
     //atributos
@@ -16,9 +18,9 @@ public class Coche {
         this.modelo = modelo;
         this.peso = peso;
         this.largo = largo;
-    };
+    }
 
-    public Coche() {};
+    public Coche() {}
 
     //Comportamiento
 

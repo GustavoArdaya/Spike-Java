@@ -1,3 +1,5 @@
+package com.examples;
+
 public class CocheElectrico extends Coche {
 
     String motorElectrico;
