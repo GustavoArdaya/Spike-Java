@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/EjercicioArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/MetodosString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ListMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examples/interfaces/CocheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examples/interfaces/CocheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examples/interfaces/CocheServiceClassicImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examples/interfaces/CocheServiceClassicImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examples/interfaces/CocheServiceSportImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examples/interfaces/CocheServiceSportImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +56,7 @@
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjercicioArrays">
-    <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CocheMain" />
-      <module name="java_spike" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListMain">
     <configuration name="EjercicioArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.EjercicioArrays" />
       <module name="java_spike" />
@@ -87,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.examples.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ListMain" />
+      <module name="java_spike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.EjercicioArrays" />
         <item itemvalue="Application.MetodosString" />
         <item itemvalue="Application.InterfacesMain" />
         <item itemvalue="Application.PolimorfismoMain" />
-        <item itemvalue="Application.CocheMain" />
       </list>
     </recent_temporary>
   </component>
