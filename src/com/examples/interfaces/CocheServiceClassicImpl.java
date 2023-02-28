@@ -8,4 +8,9 @@ public class CocheServiceClassicImpl implements CocheService {
         System.out.println("Creación de coche clásico");
         return new CocheElectrico();
     }
+
+    @Override
+    public void destruirCoche(Coche coche) {
+        System.out.println("Destruyendo Coche");
+    }
 }

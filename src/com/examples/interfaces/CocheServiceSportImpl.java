@@ -9,4 +9,9 @@ public class CocheServiceSportImpl implements CocheService {
         System.out.println("Creación de coche de carreras");
         return new CocheElectrico();
     }
+
+    @Override
+    public void destruirCoche(Coche coche) {
+
+    }
 }
