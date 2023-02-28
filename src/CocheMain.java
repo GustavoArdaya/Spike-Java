@@ -6,5 +6,10 @@ public class CocheMain {
         System.out.println(cocheObj);
         cocheObj.peso= 1450;
         System.out.println(cocheObj);
+
+        CocheElectrico cocheElectrico = new CocheElectrico("verde","Honda", "Civic", 1600d, 4.6,"sr Motor Eléctrico");
+        System.out.println(cocheElectrico);
+
+
     }
 }
