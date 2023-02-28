@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/TryCatchMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ScannerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryCatchMain">
+  <component name="RunManager" selected="Application.ScannerMain">
     <configuration name="EjercicioArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.EjercicioArrays" />
       <module name="java_spike" />
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodosString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.MetodosString" />
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ScannerMain" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerMain" />
         <item itemvalue="Application.TryCatchMain" />
         <item itemvalue="Application.MapMain" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.EjercicioArrays" />
-        <item itemvalue="Application.MetodosString" />
       </list>
     </recent_temporary>
   </component>
