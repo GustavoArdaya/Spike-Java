@@ -9,6 +9,8 @@ public class CocheMain {
 
         CocheElectrico cocheElectrico = new CocheElectrico("verde","Honda", "Civic", 1600d, 4.6,"sr Motor Eléctrico");
         System.out.println(cocheElectrico);
+        cocheElectrico.acelerar(40);
+        System.out.println(cocheElectrico);
 
 
     }
