@@ -22,6 +22,16 @@ public class Coche {
 
     public Coche() {}
 
+    //Constructor de copia:
+    public Coche(Coche coche) {
+        this.color = coche.color;
+        this.fabricante = coche.fabricante;
+        this.modelo = coche.modelo;
+        this.peso = coche.peso;
+        this.largo = coche.largo;
+        this.velocidad = coche.velocidad;
+    }
+
     //Comportamiento
 
     public void acelerar(Integer cantidad) {

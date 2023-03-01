@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/example/CalculoDeIVA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examples/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examples/Funciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +56,13 @@
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Funciones">
-    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examples.Funciones" />
+  <component name="RunManager" selected="Application.CalculoDeIVA">
+    <configuration name="CalculoDeIVA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.CalculoDeIVA" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examples.*" />
+          <option name="PATTERN" value="com.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.MapMain" />
+    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examples.Funciones" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculoDeIVA" />
         <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.ScannerMain" />
         <item itemvalue="Application.TryCatchMain" />
-        <item itemvalue="Application.MapMain" />
       </list>
     </recent_temporary>
   </component>
