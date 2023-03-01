@@ -9,6 +9,7 @@ public class Funciones {
         saludoMalcriado();
 
         System.out.println("El resultado de la funcion suma es " + suma(1, 2) + ".");
+        System.out.println("El resultado de la funcion suma, mediante sobrecarga con doubles es " + suma(1.7, 2.7) + ".");
     }
 
     private static void holaMundo() {
@@ -31,5 +32,8 @@ public class Funciones {
         return a + b;
     }
 
-
+    //Sobrecarga de la funcion suma, utilizando variables de tipo double
+    public static double suma(double a, double b) {
+        return a + b;
+    }
 }
