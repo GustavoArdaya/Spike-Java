@@ -7,6 +7,8 @@ public class Funciones {
         //No olvidarse ejecutar dentro de main!
         saludador("Bigotes");
         saludoMalcriado();
+
+        System.out.println("El resultado de la funcion suma es " + suma(1, 2) + ".");
     }
 
     private static void holaMundo() {
@@ -21,6 +23,12 @@ public class Funciones {
     private static void saludoMalcriado() {
         //este no recibe parámetros
         System.out.println("Hola, como te llames");
+    }
+
+    //funcion con parámetros que devuelve valor:
+
+    public static int suma(int a, int b) {
+        return a + b;
     }
 
 
