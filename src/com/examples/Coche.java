@@ -23,13 +23,13 @@ public class Coche {
     public Coche() {}
 
     //Constructor de copia:
-    public Coche(Coche coche) {
-        this.color = coche.color;
-        this.fabricante = coche.fabricante;
-        this.modelo = coche.modelo;
-        this.peso = coche.peso;
-        this.largo = coche.largo;
-        this.velocidad = coche.velocidad;
+    public Coche(Coche c) {
+        this.color = c.color;
+        this.fabricante = c.fabricante;
+        this.modelo = c.modelo;
+        this.peso = c.peso;
+        this.largo = c.largo;
+        this.velocidad = c.velocidad;
     }
 
     //Comportamiento
