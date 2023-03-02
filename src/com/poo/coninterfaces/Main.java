@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) {
 
         empleadoCRUD.findAll();
-        empleadoCRUD.save(new Empleado())
+        empleadoCRUD.save(new Empleado());
     }
 }
