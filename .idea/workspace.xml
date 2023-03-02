@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/poo/interfaces/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/interfaces/EmpleadoCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poo/coninterfaces/EmpleadoCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poo/coninterfaces/EmpleadoCRUDMySQL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/poo/coninterfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/poo/coninterfaces/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
