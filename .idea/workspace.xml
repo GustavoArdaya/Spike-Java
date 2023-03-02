@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/consolidateduplicate/bad/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/consolidateduplicate/good/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/refactoring/extractclass/bad/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/refactoring/extractclass/good/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/refactoring/extractclass/good/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples\interfaces" />
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.refactoring.consolidateduplicate.good" />
+      <recent name="com.refactoring.consolidateconditional.good" />
+      <recent name="com.refactoring.consolidateconditional.bad" />
     </key>
   </component>
   <component name="RunManager" selected="Application.com.poo.ej_interfaces.Main">
