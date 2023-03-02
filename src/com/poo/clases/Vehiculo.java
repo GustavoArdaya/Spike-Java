@@ -1,6 +1,6 @@
 package com.poo.clases;
 
-public class Vehiculo {
+public abstract class Vehiculo {
     protected String fabricante;
     protected String modelo;
     protected double cc;

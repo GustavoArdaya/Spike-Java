@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/poo/clases/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/clases/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/clases/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/herencia/Camion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/herencia/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/poo/herencia/Motocicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poo/clases/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poo/herencia/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poo/herencia/SmartWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/poo/clases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/poo/clases/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/poo/clases/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/poo/clases/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <recent name="C:\Users\gusta\Desktop\Factoria-F5\Spike_Java\java_spike\src\com\examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConcatenadorDeTexto">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CalculoDeIVA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.CalculoDeIVA" />
       <module name="java_spike" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examples.Operadores" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poo.clases.Main" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examples.*" />
+          <option name="PATTERN" value="com.poo.clases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConcatenadorDeTexto" />
         <item itemvalue="Application.SentenciasIfElse" />
         <item itemvalue="Application.CalculoDeIVA" />
         <item itemvalue="Application.Funciones" />
-        <item itemvalue="Application.Operadores" />
       </list>
     </recent_temporary>
   </component>
