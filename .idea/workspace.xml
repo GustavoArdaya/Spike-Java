@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tiposavanzados/TipoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundaula/clasegenerica/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fundaula/clasegenerica/OperacionesMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +65,13 @@
       <recent name="com.refactoring.consolidateduplicate.good" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TipoArray">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.poo.clases.Main" />
+  <component name="RunManager" selected="Application.OperacionesMain">
+    <configuration name="OperacionesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fundaula.clasegenerica.OperacionesMain" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.poo.clases.*" />
+          <option name="PATTERN" value="com.fundaula.clasegenerica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperacionesMain" />
         <item itemvalue="Application.TipoArray" />
         <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.com.poo.ej_interfaces.Main" />
         <item itemvalue="Application.com.poo.sininterfaces.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
