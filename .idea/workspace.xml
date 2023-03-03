@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/replacemethod/bad/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/replacemethod/good/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/replacemethod/good/ProductPriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examples/ejemploliskov/bien/Adulto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examples/ejemploliskov/bien/Ninyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examples/ejemploliskov/bien/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examples/ejemploliskov/mal/Ninyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examples/ejemploliskov/mal/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiposavanzados/TipoString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +69,7 @@
       <recent name="com.refactoring.consolidateduplicate.good" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.poo.ej_interfaces.Main">
+  <component name="RunManager" selected="Application.TipoString">
     <configuration name="ConcatenadorDeTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.examples.ConcatenadorDeTexto" />
       <module name="java_spike" />
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciasIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examples.SentenciasIfElse" />
+    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tiposavanzados.TipoString" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examples.*" />
+          <option name="PATTERN" value="com.tiposavanzados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.com.poo.ej_interfaces.Main" />
         <item itemvalue="Application.com.poo.sininterfaces.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConcatenadorDeTexto" />
-        <item itemvalue="Application.SentenciasIfElse" />
       </list>
     </recent_temporary>
   </component>
