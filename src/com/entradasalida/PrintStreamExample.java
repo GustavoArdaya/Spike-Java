@@ -11,9 +11,12 @@ public class PrintStreamExample {
         try {
             InputStream in = new FileInputStream("C:/Users/gusta/Dropbox/Mi PC (LAPTOP-T710QH4E)/Desktop/Factoria-F5/Spike_Java/java_spike/src/com/entradasalida/ejemplo.txt");
             byte [] datos = in.readAllBytes();
+            in.close();
 
             PrintStream out = new PrintStream("destino.txt");
             out.write(datos);
+            out.close();
+
         } catch (Exception e) {
             System.out.println("Exception = " + e.getMessage());
         }
