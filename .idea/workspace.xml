@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="513cbbcb-c13d-445b-9a4b-3f70fcd3a1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/entradasalida/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/entradasalida/PrintStreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MK6y9jBDfdTOSlcJ67ycQZtfW1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,9 +64,22 @@
       <recent name="com.refactoring.consolidateduplicate.good" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerClass">
+  <component name="RunManager" selected="Application.PrintStreamExample">
     <configuration name="InputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.entradasalida.InputStreamExample" />
+      <module name="java_spike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.entradasalida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.entradasalida.PrintStreamExample" />
       <module name="java_spike" />
       <extension name="coverage">
         <pattern>
@@ -117,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoVectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tiposavanzados.TipoVectores" />
-      <module name="java_spike" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tiposavanzados.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintStreamExample" />
         <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.InputStreamExample" />
         <item itemvalue="Application.TipoMapa" />
         <item itemvalue="Application.TipoArrayList" />
-        <item itemvalue="Application.TipoVectores" />
       </list>
     </recent_temporary>
   </component>
